@@ -22,5 +22,6 @@ public class home2 {
                 lineNumber+=2 ;
             }
         }
+        file.close();
     }
 }

@@ -13,5 +13,8 @@ public class doloop {
             number = number/10;
         }while(number > 0);
         System.out.println("That number reserved is " + reverse);
+
+        input.close();
     }
+    
 }

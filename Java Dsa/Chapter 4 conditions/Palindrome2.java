@@ -19,6 +19,6 @@ public class Palindrome2 {
             }else{
                 System.out.println("This is a Palindrome");
             }
-
+            scan.close();
     }
 }

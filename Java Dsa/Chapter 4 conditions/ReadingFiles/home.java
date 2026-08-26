@@ -23,6 +23,6 @@ public class home {
                 System.out.println();
             }
         }
-
+        fileScan.close();
     }
 }
